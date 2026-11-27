@@ -1,6 +1,8 @@
 # Demand Forcasting Using Machine Learning 
 
 ##🚀 Project Overview
+
+
 Demand forecasting is one of the most important business analytics tasks that helps organizations predict future product demand based on historical sales patterns.
 
 This project is an end-to-end Machine Learning pipeline to forecast product demand using historical sales data. The project covers everything from data preprocessing and exploratory data analysis (EDA) to feature engineering, model training, evaluation, and future demand prediction.
@@ -14,6 +16,8 @@ Make data-driven business decisions
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ##🎯 Objectives
+
+
 The main goals of this project are:
 
 Analyze historical sales data
