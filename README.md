@@ -1,6 +1,6 @@
 # Demand Forcasting Using Machine Learning 
 
-🚀 Project Overview
+##🚀 Project Overview
 Demand forecasting is one of the most important business analytics tasks that helps organizations predict future product demand based on historical sales patterns.
 
 This project is an end-to-end Machine Learning pipeline to forecast product demand using historical sales data. The project covers everything from data preprocessing and exploratory data analysis (EDA) to feature engineering, model training, evaluation, and future demand prediction.
@@ -11,9 +11,9 @@ Reduce inventory holding costs
 Minimize stockouts and overstock situations
 Improve supply chain planning
 Make data-driven business decisions
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-🎯 Objectives
+##🎯 Objectives
 The main goals of this project are:
 
 Analyze historical sales data
@@ -22,9 +22,9 @@ Build predictive Machine Learning models
 Compare forecasting model performance
 Generate accurate future demand forecasts
 Derive actionable business insights
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-⚙️ Machine Learning Workflow
+##⚙️ Machine Learning Workflow
 
 Step 1: Data Collection
 Load historical sales data for analysis.
@@ -47,9 +47,9 @@ Evaluate performance using forecasting metrics.
 Step 7: Forecast Future Demand
 Generate future demand predictions using the best model.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-📊 Evaluation Metrics
+##📊 Evaluation Metrics
 
 The models are evaluated using:
 
@@ -60,7 +60,9 @@ R² Score	  Coefficient of Determination
 
 Lower RMSE and MAE values indicate better forecasting performance.
 
-📈 Business Impact
+________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+##📈 Business Impact
 
 Accurate demand forecasting can help organizations:
 
@@ -78,8 +80,10 @@ Accurate demand forecasting can help organizations:
 
 ✔ Support strategic business planning
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📷 Sample Visualizations
+
+##📷 ##Sample Visualizations
 The project includes:
 
 Sales Trend Analysis
@@ -88,8 +92,9 @@ Seasonal Demand Patterns
 Forecast vs Actual Demand Comparison
 Feature Importance Analysis
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📌 Future Improvements
+##📌 ##Future Improvements
 
 Deep Learning Models (LSTM, GRU)
 Multi-Step Forecasting
