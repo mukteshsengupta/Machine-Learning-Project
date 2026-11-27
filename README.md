@@ -87,7 +87,7 @@ Accurate demand forecasting can help organizations:
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-##📷 ##Sample Visualizations
+##📷 Sample Visualizations
 The project includes:
 
 Sales Trend Analysis
